@@ -1,0 +1,7 @@
+{
+  "name": "e-2-e-test-organization-state",
+  "namespace": "org-e-2-e-test-organization-state-config",
+  "regions": [
+    "eu-west-1"
+  ]
+}
